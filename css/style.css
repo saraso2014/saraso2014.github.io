@@ -14,7 +14,7 @@
 
 	body
 	{
-		background-color:		#183026;
+		background-color:		#ff4400,
 		background-image:		url('images/overlay.png'),			url('../images/bg.jpg');
 		background-repeat:		repeat,								no-repeat;
 		background-size:		auto,								cover;
@@ -852,7 +852,7 @@
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
 		text-align: center;
-		background: #35b88f url('images/banner.svg') bottom center no-repeat;
+		background: #A6206A url('images/banner.svg') bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
@@ -860,7 +860,7 @@
 
 		#banner .button
 		{
-			color: #35b882;
+			color: #A6206A;
 			text-shadow: 0 0 0.5px rgba(53,184,130,0.25);
 		}
 
