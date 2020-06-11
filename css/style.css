@@ -14,8 +14,8 @@
 
 	body
 	{
-		background-color:		#ff4400,
-		background-image:		url('images/overlay.png'),			url('../images/bg.jpg');
+		background-color:		#2f9395,
+		background-image:		url('images/overlay.png'),			url('../images/bg-orange.jpg');
 		background-repeat:		repeat,								no-repeat;
 		background-size:		auto,								cover;
 		background-position: 	top left,							center 0;
