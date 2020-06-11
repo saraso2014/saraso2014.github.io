@@ -14,8 +14,7 @@
 
 	body
 	{
-		background-color: #FF8C94;
-		/**	background-image:		url('images/overlay.png'),			url('../images/bg-orange.jpg');**/
+		background-color: #C06C84;
 		background-repeat:		repeat,								no-repeat;
 		background-size:		auto,								cover;
 		background-position: 	top left,							center 0;
@@ -73,6 +72,7 @@
 	{
 		font-size: 1.25em;
 		letter-spacing: 8px;
+		color: #F8B195;
 	}
 	
 	h3
@@ -770,7 +770,7 @@
 	#header
 	{
 		position: relative;
-		color: #A7226E;
+		color: #F8B195;
 		text-shadow: 0 0 0.5px rgba(255,255,255,0.25);
 		text-align: center;
 		margin: 0;
@@ -801,9 +801,6 @@
 				letter-spacing: 3px;
 				padding: 0;
 				margin-top: 0.35em;
-			 /**
-				text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;**/
-
 			}
 			
 				#header header p:before
@@ -865,7 +862,7 @@
 
 		#banner .button
 		{
-			color: #A6206A;
+			color: black;
 			text-shadow: 0 0 0.5px rgba(53,184,130,0.25);
 		}
 
@@ -906,7 +903,7 @@
 /*********************************************************************************/
 
 #popout {
-	background-color: #FFD3B5;
+	background-color: #F67280;
 	border: solid white  1px;
 	margin: 0rem 5rem 0 5rem;
 	padding: 3rem;
