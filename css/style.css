@@ -11,10 +11,10 @@
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/
-
 	body
 	{
-		background-color: #C06C84;
+		background-color:		#2f9395;
+		background-image:		url('images/overlay.png'),			url('../images/bg-pink.jpg');
 		background-repeat:		repeat,								no-repeat;
 		background-size:		auto,								cover;
 		background-position: 	top left,							center 0;
