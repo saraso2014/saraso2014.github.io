@@ -2004,7 +2004,7 @@ input, select, textarea {
 
 		.box.style4 {
 			background: clear;
-			padding: 2rem 0;
+			padding: 2rem 3rem;
 			margin: 0 auto;
 
 		}
@@ -2015,6 +2015,7 @@ input, select, textarea {
 
 			.box.style4 h6 {
 				padding: 0.5rem 0 0 0;
+				font-size:1.5rem;
 				color:#fff;
 			}
 
