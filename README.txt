@@ -1,5 +1,5 @@
 Overflow by HTML5 UP
-html5up.net | @n33co
+html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
@@ -9,7 +9,7 @@ on a few months back), but I think it'd make for a pretty cool portfolio. Includ
 a pop-up gallery, styling for all basic page elements, a handy configuration
 (see the top of js/init.js), and some experimental stuff I've been messing with
 lately (like the parallax background effect).
-	
+
 Demo images* courtesy of the talented, the awesome, THE one and only Felicia Simion,
 a photographer whose works will make your head spin in awe. See more of it here:
 
@@ -19,7 +19,9 @@ http://ineedchemicalx.deviantart.com/
 and/or use any of Felicia's work without her explicit permission!)
 
 AJ
-n33.co @n33co dribbble.com/n33
+aj@lkn.io | @ajlkn
+
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
 
 Credits:
@@ -37,15 +39,10 @@ Credits:
 			"Different." (ineedchemicalx.deviantart.com/art/Different-353708988)
 			"History was made here" (ineedchemicalx.deviantart.com/art/History-was-made-here-366723812)
 			"People come and go and walk away" (ineedchemicalx.deviantart.com/art/People-come-and-go-and-walk-away-284244677)
-			
+
 	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+		Font Awesome (fontawesome.io)
 
 	Other:
 		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		jquery.poptrox (n33.co)
-		jquery.scrolly (n33.co)
-		skel (n33.co)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
