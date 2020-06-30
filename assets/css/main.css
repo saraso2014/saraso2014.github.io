@@ -86,7 +86,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #3a3939;
+		background-color: rgb(52,99,64);
 		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
@@ -159,7 +159,6 @@ input, select, textarea {
 		font-size: 1.25em;
 		letter-spacing: 8px;
 	}
-
 
 	h3 {
 		font-size: 1.5em;
@@ -1800,7 +1799,7 @@ input, select, textarea {
 		input[type="reset"].style2,
 		button.style2,
 		.button.style2 {
-			color: #3a3939;
+			color: #3B715A;
 			background: #fff;
 			box-shadow: inset 0 0 0 1px #fff;
 		}
@@ -2223,14 +2222,15 @@ input, select, textarea {
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
-		background: #35b88f url("images/banner.svg") bottom center no-repeat;
+		background: #3B715A url("images/banner.svg") bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
 	}
 
 		#banner .button {
-			color: #35b882;
+			/* old color color: #35b882; */
+			color: #3B715A;
 			text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 		}
 
@@ -2321,9 +2321,8 @@ iframe {
 		box-sizing: content-box;
 		padding:3rem;
 		text-align:center;
-		color:clear;
-		background-color:black;
-		
+		background: url("../../images/bg.jpg");
+		border: solid #fff 0.5px;
 	}
 
 		.poptrox-popup .loader {
@@ -2338,12 +2337,10 @@ iframe {
 
 		.poptrox-popup .caption {
 			position: absolute;
-			bottom: 3rem;
 			left: 0;
 			font-size: 0;
 			background: white;
 			width: 0%;
-			height: 3em;
 			line-height: 0em;
 			text-align: left;
 			cursor: default;
@@ -2372,7 +2369,6 @@ iframe {
 				position: absolute;
 				width: 96px;
 				height: 64px;
-				background: url("images/poptrox-nav.svg");
 				top: calc(50% - 1.5em);
 				margin: -32px 0 0 0;
 			}
